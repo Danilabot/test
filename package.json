@@ -1,0 +1,10 @@
+{
+  "name": "material-order-app",
+  "version": "1.0.0",
+  "description": "Консольное приложение для оформления заявок на строительные материалы с учётом региона и логики удержания клиента",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "license": "MIT"
+}

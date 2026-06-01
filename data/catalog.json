@@ -1,0 +1,93 @@
+{
+  "regions": [
+    { "code": "spb", "title": "Санкт-Петербург" },
+    { "code": "msk", "title": "Москва" },
+    { "code": "krd", "title": "Краснодар" }
+  ],
+  "materials": [
+    {
+      "id": "ins-rockwool-skandic-50",
+      "name": "Утеплитель Роквул Скандик 50 мм",
+      "category": "Утеплитель",
+      "unit": "упак.",
+      "prices": { "spb": 1075, "msk": 1100, "krd": 950 }
+    },
+    {
+      "id": "ins-knauf-teplo-50",
+      "name": "Утеплитель Кнауф ТеплоКНАУФ 50 мм",
+      "category": "Утеплитель",
+      "unit": "упак.",
+      "prices": { "spb": 860, "msk": 900, "krd": 1300 }
+    },
+    {
+      "id": "gas-sk-d400",
+      "name": "Газобетон СК D400 100х250х625 мм",
+      "category": "Газобетон",
+      "unit": "шт.",
+      "prices": { "spb": 450, "msk": 430, "krd": 420 }
+    },
+    {
+      "id": "gas-lsr-d400",
+      "name": "Газобетон ЛСР D400 100х250х625 мм",
+      "category": "Газобетон",
+      "unit": "шт.",
+      "prices": { "spb": 580, "msk": 550, "krd": 580 }
+    },
+    {
+      "id": "brick-rad-m150",
+      "name": "Кирпич рядовой М150 одинарный",
+      "category": "Кирпич",
+      "unit": "шт.",
+      "prices": { "spb": 18, "msk": 20, "krd": 17 }
+    },
+    {
+      "id": "brick-face-m175",
+      "name": "Кирпич облицовочный М175 одинарный",
+      "category": "Кирпич",
+      "unit": "шт.",
+      "prices": { "spb": 32, "msk": 35, "krd": 30 }
+    },
+    {
+      "id": "mix-knauf-rotband-30",
+      "name": "Штукатурка Кнауф Ротбанд 30 кг",
+      "category": "Сухие смеси",
+      "unit": "мешок",
+      "prices": { "spb": 540, "msk": 560, "krd": 500 }
+    },
+    {
+      "id": "mix-volma-sloy-30",
+      "name": "Штукатурка Волма Слой 30 кг",
+      "category": "Сухие смеси",
+      "unit": "мешок",
+      "prices": { "spb": 410, "msk": 430, "krd": 390 }
+    },
+    {
+      "id": "roof-profnastil-c8",
+      "name": "Профнастил С8 оцинкованный 0.4 мм",
+      "category": "Кровля",
+      "unit": "м²",
+      "prices": { "spb": 410, "msk": 450, "krd": 400 }
+    },
+    {
+      "id": "roof-metalcherepica-monterrey",
+      "name": "Металлочерепица Монтеррей 0.45 мм",
+      "category": "Кровля",
+      "unit": "м²",
+      "prices": { "spb": 520, "msk": 560, "krd": 510 }
+    },
+    {
+      "id": "wood-doska-25x150x6000",
+      "name": "Доска обрезная 25х150х6000 мм",
+      "category": "Пиломатериалы",
+      "unit": "шт.",
+      "prices": { "spb": 320, "msk": 340, "krd": 300 }
+    },
+    {
+      "id": "wood-brus-100x100x6000",
+      "name": "Брус строганый 100х100х6000 мм",
+      "category": "Пиломатериалы",
+      "unit": "шт.",
+      "prices": { "spb": 750, "msk": 780, "krd": 720 }
+    }
+  ]
+}
